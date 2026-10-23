@@ -1,0 +1,51 @@
+﻿Sucursal,Producto,Categoria,Cantidad,Precio_Unitario_USD,Proveedor
+San Salvador,Laptop Lenovo IdeaPad,Tecnología,12,549.99,TecnoDistribuidora
+San Salvador,Mouse inalámbrico,Accesorios,73,14.5,CompuCentro
+San Salvador,Teclado mecánico,Accesorios,32,39.99,CompuCentro
+San Salvador,Monitor 24 pulgadas,Tecnología,16,159.0,TecnoDistribuidora
+San Salvador,Audífonos Bluetooth,Audio,37,32.75,ElectroHogar
+San Salvador,Impresora multifuncional,Oficina,16,129.99,Papelería Central
+San Salvador,Memoria USB 64 GB,Almacenamiento,90,9.9,TecnoDistribuidora
+San Salvador,Disco SSD 1 TB,Almacenamiento,23,84.5,CompuCentro
+San Salvador,Bocina portátil,Audio,34,27.99,ElectroHogar
+San Salvador,Silla ergonómica,Oficina,7,189.0,Muebles SV
+Santa Ana,Laptop Lenovo IdeaPad,Tecnología,14,549.99,TecnoDistribuidora
+Santa Ana,Mouse inalámbrico,Accesorios,49,14.5,CompuCentro
+Santa Ana,Teclado mecánico,Accesorios,21,39.99,CompuCentro
+Santa Ana,Monitor 24 pulgadas,Tecnología,17,159.0,TecnoDistribuidora
+Santa Ana,Audífonos Bluetooth,Audio,24,32.75,ElectroHogar
+Santa Ana,Impresora multifuncional,Oficina,10,129.99,Papelería Central
+Santa Ana,Memoria USB 64 GB,Almacenamiento,69,9.9,TecnoDistribuidora
+Santa Ana,Disco SSD 1 TB,Almacenamiento,14,84.5,CompuCentro
+Santa Ana,Bocina portátil,Audio,23,27.99,ElectroHogar
+Santa Ana,Silla ergonómica,Oficina,11,189.0,Muebles SV
+San Miguel,Laptop Lenovo IdeaPad,Tecnología,14,549.99,TecnoDistribuidora
+San Miguel,Mouse inalámbrico,Accesorios,65,14.5,CompuCentro
+San Miguel,Teclado mecánico,Accesorios,22,39.99,CompuCentro
+San Miguel,Monitor 24 pulgadas,Tecnología,17,159.0,TecnoDistribuidora
+San Miguel,Audífonos Bluetooth,Audio,35,32.75,ElectroHogar
+San Miguel,Impresora multifuncional,Oficina,9,129.99,Papelería Central
+San Miguel,Memoria USB 64 GB,Almacenamiento,78,9.9,TecnoDistribuidora
+San Miguel,Disco SSD 1 TB,Almacenamiento,24,84.5,CompuCentro
+San Miguel,Bocina portátil,Audio,24,27.99,ElectroHogar
+San Miguel,Silla ergonómica,Oficina,10,189.0,Muebles SV
+La Libertad,Laptop Lenovo IdeaPad,Tecnología,9,549.99,TecnoDistribuidora
+La Libertad,Mouse inalámbrico,Accesorios,46,14.5,CompuCentro
+La Libertad,Teclado mecánico,Accesorios,14,39.99,CompuCentro
+La Libertad,Monitor 24 pulgadas,Tecnología,11,159.0,TecnoDistribuidora
+La Libertad,Audífonos Bluetooth,Audio,24,32.75,ElectroHogar
+La Libertad,Impresora multifuncional,Oficina,4,129.99,Papelería Central
+La Libertad,Memoria USB 64 GB,Almacenamiento,55,9.9,TecnoDistribuidora
+La Libertad,Disco SSD 1 TB,Almacenamiento,16,84.5,CompuCentro
+La Libertad,Bocina portátil,Audio,15,27.99,ElectroHogar
+La Libertad,Silla ergonómica,Oficina,5,189.0,Muebles SV
+Sonsonate,Laptop Lenovo IdeaPad,Tecnología,8,549.99,TecnoDistribuidora
+Sonsonate,Mouse inalámbrico,Accesorios,50,14.5,CompuCentro
+Sonsonate,Teclado mecánico,Accesorios,23,39.99,CompuCentro
+Sonsonate,Monitor 24 pulgadas,Tecnología,11,159.0,TecnoDistribuidora
+Sonsonate,Audífonos Bluetooth,Audio,25,32.75,ElectroHogar
+Sonsonate,Impresora multifuncional,Oficina,12,129.99,Papelería Central
+Sonsonate,Memoria USB 64 GB,Almacenamiento,60,9.9,TecnoDistribuidora
+Sonsonate,Disco SSD 1 TB,Almacenamiento,16,84.5,CompuCentro
+Sonsonate,Bocina portátil,Audio,25,27.99,ElectroHogar
+Sonsonate,Silla ergonómica,Oficina,4,189.0,Muebles SV
